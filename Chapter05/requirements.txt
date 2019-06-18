@@ -1,0 +1,7 @@
+numpy
+pandas
+keras
+sklearn
+theano
+werkzeug
+json-rpc

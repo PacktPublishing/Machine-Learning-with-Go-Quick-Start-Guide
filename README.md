@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781838550356"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b13406_0.png" height="256px" align="right"></a>
 
-This is the code repository for [Machine Learning with Go Quick Start Guide](https://www.packtpub.com/in/application-development/hands-go-programming?utm_source=github&utm_medium=repository&utm_campaign=9781789531756), published by Packt.
+This is the code repository for [Machine Learning with Go Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781838550356), published by Packt.
 
 **Hands-on techniques for building supervised and unsupervised machine learning workflows**
 
